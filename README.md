@@ -16,7 +16,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![image of deployed site]([assets/images/screenshot.png](https://github.com/adammathis05/seo-code-refactor/blob/main/assets/images/SEO%20Refactor%20Deployed%20Screenshot.png))
+![image of deployed site](https://github.com/adammathis05/seo-code-refactor/blob/main/assets/images/SEO%20Refactor%20Deployed%20Screenshot.png)
 
 
 ## Credits

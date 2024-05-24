@@ -19,7 +19,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-https://stackoverflow.com/questions/19175668/shall-i-use-section-tags-inside-aside
-https://stackoverflow.com/questions/7549561/difference-between-section-vs-article-elements-in-html
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://generatepress.com/forums/topic/hero-image-elements-dont-bring-in-the-alt-tag/
+- https://stackoverflow.com/questions/19175668/shall-i-use-section-tags-inside-aside
+- https://stackoverflow.com/questions/7549561/difference-between-section-vs-article-elements-in-html
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://generatepress.com/forums/topic/hero-image-elements-dont-bring-in-the-alt-tag/
+- https://www.markdownguide.org/cheat-sheet/
